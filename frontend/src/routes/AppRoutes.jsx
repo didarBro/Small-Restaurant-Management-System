@@ -2,7 +2,7 @@ import { Routes, Route } from "react-router-dom";
 import DashboardLayout from "../layouts/DashboardLayout";
 import Analytics from "../pages/analytics/Analytics";
 import Tables from "../pages/table/Table";
-import Menu from "../pages/menu/Food_menu";
+import Menu from "../pages/menu/FoodMenu";
 import Employee from "../pages/employee/Employee";
 import Cost from "../pages/cost/Cost";
 
